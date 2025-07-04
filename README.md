@@ -8,7 +8,7 @@
 
 # ⭐ Amazon Review Insight Agent
 
-An LLM-powered, agentic system that enables natural language exploration of Amazon product reviews. Built with **LangGraph**, **Claude**, **Databricks**, and **Genie Spaces**, it allows users to ask flexible questions and get structured, sentiment-rich insights from large-scale product review data.
+An LLM-powered, agentic system that enables natural language exploration of Amazon product reviews. Built with **LangGraph**, **Claude** and **Databricks AI/BI Genie**, it allows users to ask flexible questions and get structured, sentiment-rich insights from large-scale product review data.
 
 📦 Dataset: [Amazon Product Reviews (Kaggle)](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
 
