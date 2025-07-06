@@ -158,5 +158,4 @@ This project can be easily extended into a chat-based web application using tool
 _Data Scientist \| Agentic AI Developer_  
 
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
-[![shields.io](https://img.shields.io/badge/Website-divyanipanda.com-orange)](https://www.divyanipanda.com/)
 
