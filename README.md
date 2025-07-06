@@ -49,12 +49,7 @@ flowchart TD
 ## 🚀 How to Run
 Set up and test the Amazon Review Insight Agent on Databricks in just a few steps:
 
-1. Clone the Repository
-  ```bash
-  git clone https://github.com/7divs7/amazon-review-insight-agent.git
-  cd amazon-review-insight-agent
-  ```
-2. Create a Genie Space in Databricks
+1. Create a Genie Space in Databricks
 
   [Set up Genie Spaces](https://docs.databricks.com/aws/en/genie/set-up) Refer to this documentation to set up a Genie Space in Databricks for your Amazon Book review dataset. 
   
@@ -83,7 +78,7 @@ Set up and test the Amazon Review Insight Agent on Databricks in just a few step
   GENIE_SPACE_ID = dbutils.secrets.get(scope="my-secrets", key="GENIE_SPACE_ID")
 ```
 
-5. Test the Agent
+4. Test the Agent
 
   Interact with the agent to test the output. Replace the placeholder input example with your specific questions.
   ```bash
