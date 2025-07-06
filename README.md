@@ -8,7 +8,7 @@
 
 # ⭐ Amazon Book Review Insight Agent
 
-An LLM-powered, agentic system that enables natural language exploration of Amazon book reviews. Built with **LangGraph**, **Claude** and **Databricks AI/BI Genie**, it allows users to ask flexible questions and get structured, sentiment-rich insights from large-scale product review data.
+An LLM-powered, agentic system that enables natural language exploration of Amazon book reviews. Built with **LangGraph**, **Claude** and **Databricks AI/BI Genie**, it allows users to ask flexible questions and get structured, sentiment-rich insights from large-scale book review data.
 
 📦 Dataset: [Amazon US Customer Reviews Dataset - Books (Kaggle)](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Books_v1_02.tsv)
 
