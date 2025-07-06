@@ -6,7 +6,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-yellow)
 
 
-# ⭐ Amazon Book Review Insight Agent
+# 📕 Amazon Book Review Insight Agent
 
 An LLM-powered, agentic system that enables natural language exploration of Amazon book reviews. Built with **LangGraph**, **Claude** and **Databricks AI/BI Genie**, it allows users to ask flexible questions and get structured, sentiment-rich insights from large-scale book review data.
 
